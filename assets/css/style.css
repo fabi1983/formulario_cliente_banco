@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(5, 54, 56);
+    color: azure;
+}
+.comentario{
+    text-align: center;
+}
+#formulario{
+    background-color:cadetblue;
+    width: 50%;
+}
